@@ -1,0 +1,7 @@
+# Notebook Checkpoints
+.ipynb_checkpoints/
+*.pyc
+#*.out
+__pycache__/
+ntt_results/
+supervised_results/
